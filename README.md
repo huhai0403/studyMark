@@ -10,4 +10,5 @@ study everyday
 3.[CSS Modules(css loader) 用法教程] (http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
 #### 实用小知识点    
-1.[懒加载:IntersectionObserver API 使用教程](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html)    
+1.[懒加载:IntersectionObserver API 使用教程](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html)      
+2.[js-jQuery对象与dom对象相互转换](http://www.cnblogs.com/mitang/p/3999099.html)   

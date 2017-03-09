@@ -11,4 +11,6 @@ study everyday
 
 #### 实用小知识点    
 1.[懒加载:IntersectionObserver API 使用教程](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html)      
-2.[js-jQuery对象与dom对象相互转换](http://www.cnblogs.com/mitang/p/3999099.html)   
+2.[js-jQuery对象与dom对象相互转换](http://www.cnblogs.com/mitang/p/3999099.html)    
+3.[js中的事件委托或是事件代理详解](http://www.cnblogs.com/liugang-vip/p/5616484.html)  
+

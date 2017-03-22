@@ -8,7 +8,7 @@ study everyday
 #### 工具、脚手架、模块化
 1.[Javascript模块化编程（一）：模块的写法](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)    
 2.[[译]开启webpack之旅(1-4)] (https://segmentfault.com/a/1190000006693496)    
-3.[CSS Modules(css loader) 用法教程] (http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
+3.[CSS Modules(css loader)用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
 #### 实用小知识点    
 1.[懒加载:IntersectionObserver API 使用教程](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html)      
